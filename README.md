@@ -10,7 +10,7 @@ The Pokemon Team Selection project is a web application that allows users to cre
 2. **Team Selection**: Allow users to select exactly 6 Pokemon for their team.
 3. **Confirmation Message**: Provide a confirmation message displaying the final team selection.
 
-### Extra Challenges
+### Extra Challenge
 
 1. **Multiple Selections**: Allow users to select multiple instances of the same Pokemon.
 2. **Naming Pokemon**: Allow users to assign names to each Pokemon in their team.
