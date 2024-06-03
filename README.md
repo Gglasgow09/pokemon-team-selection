@@ -26,7 +26,7 @@ https://pokeapi.co/api/v2/pokemon?limit=100
 
 1. **Clone the Repository**: 
    ```bash
-   git clone <git@github.com:Gglasgow09/pokemon-team-selection.gitl>
+   git clone <git@github.com:Gglasgow09/pokemon-team-selection.git>
 
 
 2. **Navigate to the Project Directory**:
